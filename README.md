@@ -37,7 +37,7 @@ Difficulty progression
 better graphics 
 right or left movement
 obstacles
-git clone https://github.com/noraugco470-wq/cosmic-jumper.git
+git clone https://github.com/noraugo470-wq/cosmic-jumper.git
 cd cosmic-jumper
 Open index.html in your browser.
 
