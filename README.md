@@ -14,10 +14,12 @@ Randomly generated platforms
 Lightweight and browser-based
 How to Play
 Open the game in a web browser.
-Use the space bar to controls to move the ball.
+Use the space bar to make the ball go higher
 Land on platforms to stay alive.
 Avoid falling off the screen.
 Try to beat your high score!
++1 score for every landing on a platform
+![alt text] (https://github.com/noraugo470-wq/noraugo470-wq.io-cosmic-jumper/blob/edca9fdd4ee66834493a71407d677844ac554fc2/Screenshot%202026-11-08%204.00.11%20PM.png)
 Controls
 Key	Action:
 Space	Jump
