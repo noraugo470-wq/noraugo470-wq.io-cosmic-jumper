@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Star Hopper</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="menu">
+    <h1>⭐ Star Hopper</h1>
+    <button id="startBtn">PLAY</button>
+    <p>Press SPACE or TAP to jump</p>
+</div>
+
+<div id="hud">
+    Score: <span id="score">0</span>
+</div>
+
+<div id="gameOver">
+    <h2>Game Over</h2>
+    <p>Score: <span id="finalScore">0</span></p>
+    <p>Best: <span id="bestScore">0</span></p>
+    <button onclick="location.reload()">Play Again</button>
+</div>
+
+<canvas id="gameCanvas"></canvas>
+
+<script src="game.js"></script>
+
+</body>
+</html>
+
+
