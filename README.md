@@ -1,6 +1,8 @@
 # noraugo470-wq.io
 🌟 Cosmic Jumper
 a simple game made to look like geometry dash but not geometry dash.
+The aim is to just reach a high score and try not to fall
+The Game is looking a bit basic right now but a lot of future updates will be added!
 inspired my my love for science stuffs
 ![this is a photo of what the game should look like](https://github.com/noraugo470-wq/noraugo470-wq.io-cosmic-jumper/blob/main/Screenshot%202026-11-08%204.00.11%20PM.png?raw=true).
 🛑How to play🛑
@@ -23,5 +25,5 @@ inspired my my love for science stuffs
 
 
 
-     his project is licensed under the [mit]
+     this project is licensed under the [mit]
      
